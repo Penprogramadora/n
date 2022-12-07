@@ -1,0 +1,30 @@
+body{
+    color: azure;
+    background: rgb(71, 146, 121);
+}
+span{
+    font-size: 30px;
+}
+#camera, #result{
+    border: 2px deshed whitesmoke;
+    width: 350px;
+    height: 300px;
+}
+.nome_do_objeto{
+    font-size: 40px;
+}
+.gesture_icon{
+    font-size:48x ;
+}
+.heading{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+label{
+    font-size: 14px;
+    color:rgb(226, 255, 254);
+    paging:6px;
+    border-radius:10px;
+    background-color: rgb(17, 164, 112);
+}
